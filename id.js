@@ -7,4 +7,4 @@ function cyberid(num = 4) {
   }
   return result;
 }
-module.exports = {malvinid};
+module.exports = {cyberid};
